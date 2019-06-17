@@ -1,5 +1,10 @@
 ---
 title: compact set
+layout: post
+image:
+  background: triangular.png
+tags:
+- study
 ---
 
 pma로 해석학을 독학하다보니 생략한부분이 너무많아서 참고도서를 한권더 활용하기로했다
